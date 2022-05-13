@@ -1,5 +1,17 @@
+h1 {
+    font-size: 400%;
+    font-family: 'Anton', sans-serif;
+}
+h2 {
+    font-size: 200%;
+    font-family: 'Anton', sans-serif;
+}
+
+
+
 body{
-    background-color: rgb(248, 185, 243);
+    background-color: rgb(172, 162, 224);
     /*background-image:url("image.jpg");*/
 
 }
+
